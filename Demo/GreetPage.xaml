@@ -5,9 +5,4 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Demo.GreetPage">
-    <Button
-        HorizontalOptions="Center" VerticalOptions="Center"
-        Text="Click Me"
-        Clicked="Button_Clicked"/>
-    
 </ContentPage>
