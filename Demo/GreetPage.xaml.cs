@@ -15,7 +15,6 @@ namespace Demo
         public GreetPage()
         {
             InitializeComponent();
-
         }
     }
 }
