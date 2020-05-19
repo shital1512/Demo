@@ -9,4 +9,5 @@
         HorizontalOptions="Center" VerticalOptions="Center"
         Text="Click Me"
         Clicked="Button_Clicked"/>
+    
 </ContentPage>
